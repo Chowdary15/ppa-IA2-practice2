@@ -1,1 +1,8 @@
-
+gcc -g p2original.c;./a.out
+enter a :
+6
+enter a :
+5
+enter a :
+8
+SCALENE .

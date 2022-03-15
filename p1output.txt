@@ -1,1 +1,7 @@
+gcc -g p1original.c;./a.out
+enter the base no:
+56
+enter the height no:
+21
+area of the triangle 588.000000 
 

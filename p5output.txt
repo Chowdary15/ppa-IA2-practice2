@@ -1,1 +1,4 @@
-
+gcc -g p5original.c;./a.out
+enter any number :678
+enter any number :432
+the gcd numbers 678 and 432 is 6 

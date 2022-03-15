@@ -1,1 +1,4 @@
-
+gcc -g p3original.c;./a.out
+Enter a number:
+45
+45 is a composite number 
